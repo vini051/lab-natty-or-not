@@ -27,7 +27,7 @@ Estas músicas apresentam uma visão rápida e envolvente do potencial e da apli
 - IA Generativa **[Suno](https://suno.com)** para criação e composição das músicas;
 
 ## 🚀 Resultados
-As músicas falam sobre o treinamento Programando o Futuro, uma parceria entre a Caixa Econômica Federal e a DIO.
+As músicas falam sobre o treinamento Programando o Futuro, uma parceria entre a Caixa Econômica Federal e a DIO. Caso o player de áudio não carregue, você pode acessar as músicas em `src/`.
 
 ### Primeira versão: Samba
 <audio controls>
