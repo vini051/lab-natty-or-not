@@ -4,45 +4,124 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Vinicius aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+2. **Potfólio de Projetos**:
+  - [x] Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
+  - [x] Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
+  - [x] Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 
-### Template
+---
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Música: Programando o Futuro com a CAIXA e a DIO 🎵🎶
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Estas músicas apresentam uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🤖 Tecnologias Utilizadas e Processo de Criação 🧐
+- IA Generativa **[Suno](https://suno.com)** para criação e composição das músicas;
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+As músicas falam sobre o treinamento Programando o Futuro, uma parceria entre a Caixa Econômica Federal e a DIO.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+### Primeira versão: Samba
+<audio controls>
+<source src="./src/Programando o Futuro(1).mp3" type="audio/mpeg">
+Your browser does not support the audio tag.
+</audio>
+
+```
+[Verse]
+Na tela o sonho cresce sem parar
+Código e futuro a gente vai traçar
+No ritmo da inovação vamos brilhar
+Na CAIXA e DIO juntos a programar
+
+[Verse 2]
+Teclado e café viram companhia
+Cada linha é uma nova sinfonia
+Desafios viram festa todo dia
+É a parceria que nos contagia
+
+[Chorus]
+Programando o futuro é o que há
+Com a CAIXA e a DIO a nos guiar
+O ritmo comandando com alegria
+No samba da vida nossa sintonia
+
+[Verse]
+Em cada curso uma nova direção
+Na DIO aprendemos com paixão
+Onde a CAIXA chega
+Tem evolução
+Na tela vemos o futuro na ação
+
+[Bridge]
+Na parceria a fé e determinação
+Vamos juntos nessa grande missão
+Sobre o código dançamos de coração
+No samba da vida
+Essa é a razão
+
+[Chorus]
+Programando o futuro é o que há
+Com a CAIXA e a DIO a nos guiar
+O ritmo comandando com alegria
+No samba da vida nossa sintonia
 ```
 
-### Exemplos e Insigths
+### Segunda versão: Pop
+<audio controls>
+<source src="./scr/Programando o Futuro.mp3" type="audio/mpeg">
+Your browser does not support the audio tag.
+</audio>
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+```
+[Verse]
+Na tela brilham sonhos ali
+Um novo mundo para descobrir
+Codando o futuro sem desistir
+Na caixa da DIO vou prosseguir
+
+[Verse 2]
+Tantas linguagens para explorar
+A cada linha um jeito de sonhar
+Nas aulas online vou mergulhar
+Programando o melhor vou encontrar
+
+[Chorus]
+Com perseverança vou longe chegar
+A cada erro uma chance de acertar
+Na dança dos códigos vou me aventurar
+Programando o futuro sem parar
+
+[Bridge]
+Cada byte um passo de dança
+Na trilha da inovação a esperança
+Transformando ideias em ação
+É na caixa da DIO minha missão
+
+[Verse 3]
+Os bits e bytes me guiam na mão
+Na tela vejo a nova geração
+Com cada clique e cada visão
+Codando o mundo com precisão
+
+[Chorus]
+Com perseverança vou longe chegar
+A cada erro uma chance de acertar
+Na dança dos códigos vou me aventurar
+Programando o futuro sem parar
+```
+
+## 💭 Reflexão
+Este projeto foi uma experiência muito interessante, demonstrando do que as IAs Generativas são capazes.
+
 
 ## Links Interessantes
 
